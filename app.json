@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "BlackVcPlayer",
   "logo": "https://telegra.ph/file/908002d67d8c4984a2686.png",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
