@@ -90,6 +90,5 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
-- [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 - [Bot Lab Channel](http://t.me/BOT_LAB_Ch) Channel bot list
 - [Bot Lab Group](http://t.me/Bot_Lab_Gr) Group bot list
