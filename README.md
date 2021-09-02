@@ -22,7 +22,7 @@ Made with Python3
 - Some Of The Mandatory Vars Are :-
    - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
    - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://t.me/APIinfoBot)
-   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@Botkong/BlackVcPlayer#main)
+   - `STRING_NAME` :  Make a string session from [here](https://replit.com/@Botkong/BlackVcPlayer)
    - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
@@ -75,7 +75,7 @@ For linked group admins only:
 If you donlt like to play in linked channel:
  1. Get your channel ID.
  2. Rename your group to: Channel Music: your_channel_id
- 3. Add @VCPlayBot as Channel admin with full perms
+ 3. Add @BlackVcPlayer as Channel admin with full perms
  4. add helper to channel
  5. Simply send commands in your group.
 
